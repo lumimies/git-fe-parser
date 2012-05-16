@@ -1,0 +1,7 @@
+{
+	"name": "Git::FE::Parser",
+	"version": "0.0.1",
+	"description": "Parser for git fast-export format",
+	"author": "Zohar Kelrich",
+	"source-url": "git://github.com/lumimies/git-fe-parser"
+}
